@@ -1,0 +1,30 @@
+2018-Nov-08 11:23:36 INFO  group12.zhylin.task2.interpretator.Interpreter - Method bitExpressionCalc processed.
+2018-Nov-08 11:23:36 INFO  group12.zhylin.task2.interpretator.Interpreter - Method bitExpressionCalc processed.
+2018-Nov-08 11:23:36 INFO  group12.zhylin.task2.interpretator.Interpreter - Method bitExpressionCalc processed.
+2018-Nov-08 11:23:36 INFO  group12.zhylin.task2.interpretator.Interpreter - Method bitExpressionCalc processed.
+2018-Nov-08 11:23:36 INFO  group12.zhylin.task2.interpretator.Interpreter - Method bitExpressionCalc processed.
+2018-Nov-08 11:42:52 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:43:39 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:44:31 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:45:10 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:46:31 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:46:55 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 11:47:23 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:12:25 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:51:08 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:51:48 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:52:04 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:52:36 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:52:54 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:53:19 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:53:39 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-08 12:53:51 INFO  group12.zhylin.task2.reader.TextReader - File is reader
+2018-Nov-11 16:16:18 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-11 16:24:03 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-11 16:24:39 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-11 16:26:56 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-11 16:27:27 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-11 16:27:34 INFO  group12.zhylin.task3.reader.DataReader - File has been read
+2018-Nov-27 20:09:05 ERROR group12.zhylin.task4.validation.Validator - java.lang.IllegalArgumentException: No SchemaFactory that implements the schema language specified by: http://www.w3.org/2001/XMLSchema-instance could be loaded
+2018-Nov-27 20:10:37 ERROR group12.zhylin.task4.validation.Validator - java.lang.IllegalArgumentException: No SchemaFactory that implements the schema language specified by: http://www.w3.org/2001/XMLSchema-instance could be loaded
+2019-фев-25 19:32:34 INFO  group12.zhylin.task1.action.Calculation - The edge of figure cannot be negative!

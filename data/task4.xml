@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<papers xmlns="http://www.example.com/task4"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.example.com/task4 task4.xsd">
+    <newspaper name="The SUN" id="0001" date="2018-03-01">
+        <index>11024</index>
+        <specications>
+            <color>false</color>
+            <coated>false</coated>
+            <pages>4</pages>
+        </specications>
+    </newspaper>
+
+    <newspaper name="New York Times" id="0002" date="2018-03-01">
+        <index>11255</index>
+        <specications>
+            <color>true</color>
+            <coated>false</coated>
+            <pages>6</pages>
+        </specications>
+    </newspaper>
+
+    <newspaper name="Spigel" id="0003" date="2018-03-01">
+        <index>11045</index>
+        <specications>
+            <color>true</color>
+            <coated>false</coated>
+            <pages>6</pages>
+        </specications>
+    </newspaper>
+
+    <newspaper name="Wall Street Journal" id="0004" date="2018-03-01">
+        <index>11078</index>
+        <specications>
+            <color>true</color>
+            <coated>false</coated>
+            <pages>10</pages>
+        </specications>
+    </newspaper>
+
+    <newspaper name="Japan Today" id="0005" date="2018-03-01">
+        <index>11456</index>
+        <specications>
+            <color>true</color>
+            <coated>false</coated>
+            <pages>12</pages>
+        </specications>
+    </newspaper>
+
+    <newspaper name="Washington Post" id="0006" date="2018-03-01">
+        <index>11458</index>
+        <specications>
+            <color>false</color>
+            <coated>false</coated>
+            <pages>6</pages>
+        </specications>
+    </newspaper>
+
+    <magazine name="TV Magazine" id="0101" date="2018-03-01">
+        <monthly>true</monthly>
+        <index>10456</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>160</pages>
+        </specications>
+    </magazine>
+
+    <magazine name="Elle" id="0102" date="2018-04-01">
+        <monthly>true</monthly>
+        <index>10547</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>130</pages>
+        </specications>
+    </magazine>
+
+    <magazine name="Glamour" id="0103" date="2018-04-01">
+        <monthly>true</monthly>
+        <index>10254</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>120</pages>
+        </specications>
+    </magazine>
+
+    <magazine name="Auto Plus" id="0104" date="2018-04-01">
+        <monthly>true</monthly>
+        <index>10257</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>150</pages>
+        </specications>
+    </magazine>
+
+    <magazine name="Parents" id="0105" date="2018-07-01">
+        <monthly>true</monthly>
+        <index>10254</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>70</pages>
+        </specications>
+    </magazine>
+
+    <magazine name="Capital" id="0106" date="2018-07-01">
+        <monthly>true</monthly>
+        <index>10485</index>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>100</pages>
+        </specications>
+    </magazine>
+
+    <booklet name="Europe" id="1101" date="2018-01-01">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+
+    <booklet name="EuroStar" id="01102" date="2018-02-01">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+
+    <booklet name="Asia" id="01103" date="2018-03-01">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+
+    <booklet name="Africa" id="01104" date="2018-02-01">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+
+    <booklet name="EuroStar" id="01105" date="2018-01-01">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+
+    <booklet name="Moskov" id="01106" date="2018-03-03">
+        <monthly>false</monthly>
+        <specications>
+            <color>true</color>
+            <coated>true</coated>
+            <pages>1</pages>
+        </specications>
+    </booklet>
+</papers>

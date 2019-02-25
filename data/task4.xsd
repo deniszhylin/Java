@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.exemple.com/task4"
+           xmlns="http://www.example.com/task4">
+
+    <xs:element name="paper" type="paperType" abstract="true"/>
+    <xs:element name="newspaper" type="newspaperType" substitutionGroup="paper"/>
+    <xs:element name="magazine" type="magazineType" substitutionGroup="paper"/>
+    <xs:element name="booklet" type="bookletType" substitutionGroup="paper"/>
+
+    <xs:element name="papers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="paper" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="paperType">
+        <xs:sequence>
+            <xs:element type="specicationsType" name="specications"/>
+        </xs:sequence>
+        <xs:attribute name="name" type="nameType" use="required"/>
+        <xs:attribute name="id" type="xs:ID" use="required"/>
+        <xs:attribute name="data" type="xs:string" use="required"
+    </xs:complexType>
+
+    <xs:complexType name="newspaperType">
+        <xs:complexContent>
+            <xs:extension base="paperType">
+                <xs:sequence>
+                    <xs:element type="xs:int" name="index"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="magazineType">
+        <xs:complexContent>
+            <xs:extension base="paperType">
+                <xs:sequence>
+                    <xs:element type="xs:int" name="index"/>
+                    <xs:element type="xs:boolean" name="monthly"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:complexType name="bookletType">
+        <xs:complexContent>
+            <xs:extension base="paperType">
+                <xs:sequence>
+                    <xs:element type="xs:boolean" name="monthly"/>
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(.){1,25}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="id">
+        <xs:restriction base="xs:ID">
+            <xs:pattern value="x\d{1,4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="specicationsType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="color"/>
+            <xs:element type="xs:boolean" name="coated"/>
+            <xs:element type="xs:positiveInteger" name="pages"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

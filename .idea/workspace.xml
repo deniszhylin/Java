@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83001e2d-ab0c-4af0-ba45-f0f713e33714" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Java_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Java_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/jd2_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/jd2_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/log4j_api_2_11_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/testng_6_8_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Java.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/data.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/data2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/data2test.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/task4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/data/task4.xsd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/log4j-api-2.11.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/log4j-core-2.11.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng-6.8.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/2018-Nov-001/2018-Nov-01-21-07-1.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/2018-Nov-008/2018-Nov-08-11-23-1.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/log.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/jd2/log4j2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/action/Calculation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/creator/CreateTetrahedron.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Tetrahedron.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/TetrahedronProperty.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/exception/CustomException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/generator/IdGenerator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/observer/TetrahedronObserver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/observer/TetrahedronObserverImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/parser/ParseData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/read/FileReading.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/register/TetrahedronPropertiesRegister.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/repository/TetrahedronRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/repository/TetrahedronRepositoryImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByIdSpecification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByNameSpecification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/BySurfaceAreaSpecification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByVolumeSpecification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/Specification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task1/validation/FileDataValidation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/LexemSymbolCompare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/ParagraphCompare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/WordCompare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Component.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/ComponentType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Composite.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Simbol.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/exception/CustomException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/interpretator/Interpreter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/LexemParse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/ParagraphParse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/ParserTemplate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/SentenceParse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/SimbolParse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/TextParse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/program/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/reader/TextReader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task2/validator/ExpressionValidator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Berth.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Container.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Harbor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Ship.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/exception/CustomException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/generator/IdGenerator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task3/program/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperStAXBuilder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersCharacteristic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersDOMBuilder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersSAXBuilder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/controller/FileUploadServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/divider/FileNameDivide.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Booklet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Magazine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Newspaper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Paper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/PapersType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Specications.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/CustomException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/IncorrectValueException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/util/ConstatntVariable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/util/JspPath.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/PaperErrorHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/SAXValidator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/XMLValidator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/log4j2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/arror.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/action/CalculationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/parser/ParseDataTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/validation/FileDataValidationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/composite/CompositeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/interpretator/InterpreterTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/read/TextReaderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/validator/ExpressionValidatorTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/TestTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/action/Calculation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/creator/CreateTetrahedron.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/Tetrahedron.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/TetrahedronProperty.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/exception/CustomException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/generator/IdGenerator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/observer/TetrahedronObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/observer/TetrahedronObserverImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/parser/ParseData.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/read/FileReading.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/register/TetrahedronPropertiesRegister.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/repository/TetrahedronRepository.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/repository/TetrahedronRepositoryImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByIdSpecification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByNameSpecification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/BySurfaceAreaSpecification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByVolumeSpecification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/Specification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/validation/FileDataValidation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/LexemSymbolCompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/ParagraphCompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/WordCompare.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Component.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/ComponentType.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Composite.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Simbol.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/exception/CustomException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/interpretator/Interpreter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/LexemParse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/ParagraphParse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/ParserTemplate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/SentenceParse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/SimbolParse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/TextParse.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/program/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/reader/TextReader.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/validator/ExpressionValidator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Berth.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Container.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Harbor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Ship.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/exception/CustomException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/generator/IdGenerator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/program/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperHandler$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperStAXBuilder$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperStAXBuilder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersCharacteristic.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersDOMBuilder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersSAXBuilder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/controller/FileUploadServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/divider/FileNameDivide.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Booklet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Magazine.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Newspaper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Paper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/PapersType.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Specications.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/exception/CustomException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/exception/IncorrectValueException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/util/ConstatntVariable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/util/JspPath.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/PaperErrorHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/SAXValidator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/XMLValidator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/jsp/arror.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/jsp/result.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/action/CalculationTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/parser/ParseDataTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/validation/FileDataValidationTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/composite/CompositeTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/interpretator/InterpreterTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/read/TextReaderTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/validator/ExpressionValidatorTest.class" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/exception/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/reader/DataReader.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/ParagraphCompare.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/LexemSymbolCompare.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Composite.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/reader/TextReader.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/WordCompare.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task2/program/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/read/TextReaderText.java" />
+        <option value="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/read/TextReaderTest.java" />
+        <option value="$PROJECT_DIR$/data/data2test.txt" />
+        <option value="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/composite/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/data/data3.txt" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Dock.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Shipsss.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Shipt.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/generator/S.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/creater/createShip.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Container.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/generator/IdGenerator.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/program/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Harbor.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Berth.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Ship.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/Task4.xml" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/aaaa.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/program/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/Validator.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperHandler.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/A.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/TestTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersDOMBuilder.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperStAXBuilder.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/controller/FileUploadServlet.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/divider/FileNameDivide.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/PaperErrorHandler.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/SAXValidator.java" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/XMLValidator.java" />
+        <option value="$PROJECT_DIR$/src/TestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/arror.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" />
+        <option value="$PROJECT_DIR$/data/Task4.xml" />
+        <option value="$PROJECT_DIR$/data/Task4.xsd" />
+        <option value="$PROJECT_DIR$/data/task4.xml" />
+        <option value="$PROJECT_DIR$/data/task4.xsd" />
+        <option value="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersSAXBuilder.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebParsing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebParsing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1016" />
+    <option name="y" value="-680" />
+    <option name="width" value="2576" />
+    <option name="height" value="1456" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhylin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java_less\jd2\src\by\group12\zhylin\task1" />
+      <recent name="C:\Java_less\jd2\src\by\group12\task1" />
+      <recent name="C:\Java_less\jd2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java_less\jd2\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.group12.zhylin.task4.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="by.group12.zhylin.task4.builder.A" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jd2" />
+      <envs />
+    </configuration>
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.group12.zhylin.task4.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="by.group12.zhylin.task4.builder.B" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jd2" />
+      <envs />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.group12.zhylin.task3.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="by.group12.zhylin.task3.program.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jd2" />
+      <envs />
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="by.group12.zhylin.task4.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="by.group12.zhylin.task4.program.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jd2" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jd2" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="CalculationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.by.group12.zhylin.task1.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="test.by.group12.zhylin.task1.action" />
+      <option name="MAIN_CLASS_NAME" value="test.by.group12.zhylin.task1.action.CalculationTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.B" />
+      <item index="3" class="java.lang.String" itemvalue="Application.A" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.CalculationTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.CalculationTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.A" />
+        <item index="3" class="java.lang.String" itemvalue="Application.B" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dobra\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83001e2d-ab0c-4af0-ba45-f0f713e33714" name="Default" comment="" />
+      <created>1538213377898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538213377898</updated>
+      <workItem from="1538213379413" duration="2029000" />
+      <workItem from="1538222865242" duration="3317000" />
+      <workItem from="1538304904471" duration="13014000" />
+      <workItem from="1538321936375" duration="585000" />
+      <workItem from="1538322572010" duration="2249000" />
+      <workItem from="1538324902850" duration="2394000" />
+      <workItem from="1538329271140" duration="12000" />
+      <workItem from="1538384470258" duration="24295000" />
+      <workItem from="1538477306185" duration="7358000" />
+      <workItem from="1538509243088" duration="3781000" />
+      <workItem from="1538557993203" duration="727000" />
+      <workItem from="1538568067176" duration="12356000" />
+      <workItem from="1538595335962" duration="1714000" />
+      <workItem from="1538646524750" duration="9193000" />
+      <workItem from="1538658264386" duration="3148000" />
+      <workItem from="1538750448095" duration="688000" />
+      <workItem from="1538929873776" duration="764000" />
+      <workItem from="1538980653462" duration="7345000" />
+      <workItem from="1539067326128" duration="13303000" />
+      <workItem from="1539100888182" duration="1271000" />
+      <workItem from="1539102795287" duration="166000" />
+      <workItem from="1539103522573" duration="2888000" />
+      <workItem from="1539159160399" duration="12126000" />
+      <workItem from="1539187827716" duration="37000" />
+      <workItem from="1539249632908" duration="4364000" />
+      <workItem from="1539271108671" duration="1939000" />
+      <workItem from="1539329368059" duration="8819000" />
+      <workItem from="1539369834416" duration="165000" />
+      <workItem from="1539457854873" duration="979000" />
+      <workItem from="1539504088296" duration="10943000" />
+      <workItem from="1539612039637" duration="14051000" />
+      <workItem from="1539881087317" duration="245000" />
+      <workItem from="1539881397507" duration="694000" />
+      <workItem from="1539882142849" duration="9554000" />
+      <workItem from="1539936749273" duration="789000" />
+      <workItem from="1540030046638" duration="948000" />
+      <workItem from="1540122841588" duration="3800000" />
+      <workItem from="1540127412827" duration="2037000" />
+      <workItem from="1540380840812" duration="1554000" />
+      <workItem from="1540398099928" duration="741000" />
+      <workItem from="1540571351838" duration="2856000" />
+      <workItem from="1540644004365" duration="2117000" />
+      <workItem from="1540719782154" duration="7266000" />
+      <workItem from="1540742743366" duration="15000" />
+      <workItem from="1540812110761" duration="4261000" />
+      <workItem from="1540886992774" duration="15097000" />
+      <workItem from="1540970492063" duration="7713000" />
+      <workItem from="1540996929247" duration="8247000" />
+      <workItem from="1541078145436" duration="9146000" />
+      <workItem from="1541090802429" duration="4881000" />
+      <workItem from="1541178222938" duration="171000" />
+      <workItem from="1541240312429" duration="264000" />
+      <workItem from="1541402276593" duration="11207000" />
+      <workItem from="1541430136830" duration="2477000" />
+      <workItem from="1541434655872" duration="4579000" />
+      <workItem from="1541603255305" duration="2302000" />
+      <workItem from="1541608680019" duration="906000" />
+      <workItem from="1541620715668" duration="1798000" />
+      <workItem from="1541664452110" duration="5158000" />
+      <workItem from="1541856794701" duration="697000" />
+      <workItem from="1541941956940" duration="9175000" />
+      <workItem from="1541963491432" duration="1094000" />
+      <workItem from="1542011440495" duration="9357000" />
+      <workItem from="1542035651313" duration="1716000" />
+      <workItem from="1542092736719" duration="14495000" />
+      <workItem from="1542138239459" duration="633000" />
+      <workItem from="1542201811047" duration="1161000" />
+      <workItem from="1542208017109" duration="4949000" />
+      <workItem from="1542224235810" duration="1139000" />
+      <workItem from="1542370302313" duration="1339000" />
+      <workItem from="1542623880827" duration="5357000" />
+      <workItem from="1543323894758" duration="4385000" />
+      <workItem from="1543828497203" duration="2389000" />
+      <workItem from="1543925699910" duration="75000" />
+      <workItem from="1543926436026" duration="22000" />
+      <workItem from="1544002981348" duration="2715000" />
+      <workItem from="1544022739464" duration="2780000" />
+      <workItem from="1544464823143" duration="245000" />
+      <workItem from="1545213684394" duration="2039000" />
+      <workItem from="1545301133943" duration="192000" />
+      <workItem from="1545325055742" duration="8336000" />
+      <workItem from="1545826641068" duration="863000" />
+      <workItem from="1549624762773" duration="34000" />
+      <workItem from="1551110689056" duration="774000" />
+      <workItem from="1551112230650" duration="262000" />
+      <workItem from="1551112873364" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculationTest - 2019.02.25 at 19h 32m 34s.xml">
+      <configuration name="CalculationTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 51m 09s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 51m 48s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 52m 04s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 52m 37s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 52m 54s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 53m 20s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 53m 40s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompositeTest_compositeTextTest - 2018.11.08 at 12h 53m 51s.xml">
+      <configuration name="CompositeTest.compositeTextTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TextReaderTest_textReadTest - 2018.11.08 at 11h 50m 19s.xml">
+      <configuration name="TextReaderTest.textReadTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="353119000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1016" y="-680" width="2576" height="1456" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.121224165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task2/program/Main.java" />
+    <entry file="file://$PROJECT_DIR$/data/prints.xsd" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/program/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/Validator.java" />
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperCharacteristic.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperDOMBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperSAXBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/TetrahedronProperty.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Tetrahedron.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Point.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersCharacteristic.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersDOMBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperStAXBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/controller/FileUploadServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/divider/FileNameDivide.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Booklet.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Magazine.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Newspaper.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/ObjectFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/PapersType.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Paper.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/SpecicationsType.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/TitelBookletType.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/TitelMagazineType.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/TitelNewpaperType.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/IncorrectValueException.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/CustomException.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/util/JspPath.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/util/ConstatntVariable.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/XMLValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/SAXValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/PaperErrorHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Specications.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/arror.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/data/task4.xml" />
+    <entry file="file://$PROJECT_DIR$/data/task4.xsd" />
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task1/action/Calculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersSAXBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task3/generator/IdGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/task3/program/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/by/group12/zhylin/task1/action/CalculationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jd2:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>testng-6.8.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
