@@ -3,153 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="83001e2d-ab0c-4af0-ba45-f0f713e33714" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/logs/2018-Nov-001/2018-Nov-01-21-07-1.log" afterPath="$PROJECT_DIR$/logs/2018-Nov-001/2018-Nov-01-21-07-1.log" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/action/Calculation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/creator/CreateTetrahedron.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Point.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/Tetrahedron.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/entity/TetrahedronProperty.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/exception/CustomException.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/generator/IdGenerator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/observer/TetrahedronObserver.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/observer/TetrahedronObserverImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/parser/ParseData.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/read/FileReading.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/register/TetrahedronPropertiesRegister.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/repository/TetrahedronRepository.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/repository/TetrahedronRepositoryImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByIdSpecification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByNameSpecification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/BySurfaceAreaSpecification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/ByVolumeSpecification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/specification/Specification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task1/validation/FileDataValidation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/LexemSymbolCompare.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/comparator/LexemSymbolCompare.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/ParagraphCompare.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/comparator/ParagraphCompare.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/comparator/WordCompare.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/comparator/WordCompare.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Component.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/composite/Component.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/ComponentType.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/composite/ComponentType.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Composite.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/composite/Composite.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/composite/Simbol.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/composite/Simbol.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/exception/CustomException.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/exception/CustomException.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/interpretator/Interpreter.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/interpretator/Interpreter.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/LexemParse.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/LexemParse.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/ParagraphParse.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/ParagraphParse.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/ParserTemplate.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/ParserTemplate.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/SentenceParse.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/SentenceParse.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/SimbolParse.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/SimbolParse.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/parser/TextParse.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/parser/TextParse.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/program/Main.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/program/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/reader/TextReader.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/reader/TextReader.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task2/validator/ExpressionValidator.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Composite/validator/ExpressionValidator.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Berth.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/entity/Berth.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Container.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/entity/Container.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Harbor.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/entity/Harbor.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/entity/Ship.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/entity/Ship.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/exception/CustomException.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/exception/CustomException.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/generator/IdGenerator.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/generator/IdGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task3/program/Main.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/program/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperHandler.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/builder/PaperHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PaperStAXBuilder.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/builder/PaperStAXBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersCharacteristic.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/builder/PapersCharacteristic.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersDOMBuilder.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/builder/PapersDOMBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/builder/PapersSAXBuilder.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/builder/PapersSAXBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/controller/FileUploadServlet.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/controller/FileUploadServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/divider/FileNameDivide.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/divider/FileNameDivide.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Booklet.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Booklet.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Magazine.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Magazine.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Newspaper.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Newspaper.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Paper.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Paper.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/PapersType.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/PapersType.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/entity/Specications.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Specications.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/CustomException.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/exception/CustomException.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/exception/IncorrectValueException.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/exception/IncorrectValueException.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/util/ConstatntVariable.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/util/ConstatntVariable.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/util/JspPath.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/util/JspPath.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/PaperErrorHandler.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/PaperErrorHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/SAXValidator.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/SAXValidator.java" />
-      <change beforePath="$PROJECT_DIR$/src/by/group12/zhylin/task4/validation/XMLValidator.java" afterPath="$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/XMLValidator.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/action/CalculationTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Tetrahedron/action/CalculationTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/parser/ParseDataTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Tetrahedron/parser/ParseDataTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task1/validation/FileDataValidationTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Tetrahedron/validation/FileDataValidationTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/composite/CompositeTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Composite/composite/CompositeTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/interpretator/InterpreterTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Composite/interpretator/InterpreterTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/read/TextReaderTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Composite/read/TextReaderTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/by/group12/zhylin/task2/validator/ExpressionValidatorTest.java" afterPath="$PROJECT_DIR$/src/test/by/group12/zhylin/Composite/validator/ExpressionValidatorTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/action/Calculation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/creator/CreateTetrahedron.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/Point.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/Tetrahedron.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/entity/TetrahedronProperty.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/exception/CustomException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/generator/IdGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/observer/TetrahedronObserver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/observer/TetrahedronObserverImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/parser/ParseData.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/read/FileReading.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/register/TetrahedronPropertiesRegister.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/repository/TetrahedronRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/repository/TetrahedronRepositoryImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByIdSpecification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByNameSpecification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/BySurfaceAreaSpecification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/ByVolumeSpecification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/specification/Specification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task1/validation/FileDataValidation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/LexemSymbolCompare.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/ParagraphCompare.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/comparator/WordCompare.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Component.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/ComponentType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Composite.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/composite/Simbol.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/exception/CustomException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/interpretator/Interpreter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/LexemParse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/ParagraphParse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/ParserTemplate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/SentenceParse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/SimbolParse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/parser/TextParse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/program/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/reader/TextReader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task2/validator/ExpressionValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Berth.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Container.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Harbor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/entity/Ship.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/exception/CustomException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/generator/IdGenerator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task3/program/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperHandler$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperStAXBuilder$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PaperStAXBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersCharacteristic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersDOMBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/builder/PapersSAXBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/controller/FileUploadServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/divider/FileNameDivide.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Booklet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Magazine.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Newspaper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Paper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/PapersType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/entity/Specications.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/exception/CustomException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/exception/IncorrectValueException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/util/ConstatntVariable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/util/JspPath.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/PaperErrorHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/SAXValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/group12/zhylin/task4/validation/XMLValidator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/action/CalculationTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/parser/ParseDataTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task1/validation/FileDataValidationTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/composite/CompositeTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/interpretator/InterpreterTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/read/TextReaderTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/by/group12/zhylin/task2/validator/ExpressionValidatorTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/jd2/log4j2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TestTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -161,22 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/program/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs/log.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -293,11 +138,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1016" />
-    <option name="y" value="-680" />
-    <option name="width" value="2576" />
-    <option name="height" value="1456" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1508" />
+    <option name="y" value="-474" />
+    <option name="width" value="1453" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -314,10 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,6 +170,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,13 +190,13 @@
     <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Java_less\jd2\data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java_less\jd2\src\by\group12\zhylin\task1" />
       <recent name="C:\Java_less\jd2\src\by\group12\task1" />
       <recent name="C:\Java_less\jd2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java_less\jd2\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -366,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -569,19 +414,18 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
       <item index="2" class="java.lang.String" itemvalue="Application.B" />
       <item index="3" class="java.lang.String" itemvalue="Application.A" />
       <item index="4" class="java.lang.String" itemvalue="TestNG.CalculationTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.CalculationTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.A" />
-        <item index="3" class="java.lang.String" itemvalue="Application.B" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.CalculationTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.A" />
+        <item index="2" class="java.lang.String" itemvalue="Application.B" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -685,6 +529,7 @@
       <workItem from="1551112230650" duration="262000" />
       <workItem from="1551112873364" duration="53000" />
       <workItem from="1551116002995" duration="416000" />
+      <workItem from="1551116853927" duration="128000" />
     </task>
     <servers />
   </component>
@@ -721,7 +566,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353535000" />
+    <option name="totallyTimeSpent" value="353663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -733,39 +578,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1016" y="-680" width="2576" height="1456" extended-state="6" />
+    <frame x="1508" y="-474" width="1453" height="934" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22182341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122019075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854986" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -816,7 +661,6 @@
     <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/XMLValidator.java" />
     <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/SAXValidator.java" />
     <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/validation/PaperErrorHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/TestTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
     <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/XMLParsingWeb/entity/Specications.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/result.jsp" />
@@ -828,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,10 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/program/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/TestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="66">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -880,6 +723,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/group12/zhylin/Multithreading/program/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
