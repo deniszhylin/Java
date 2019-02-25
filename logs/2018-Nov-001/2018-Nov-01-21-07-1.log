@@ -42,12 +42,12 @@ javax.script.ScriptException: <eval>:1:0 Expected an operand but found .
 	at jdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:402) ~[nashorn.jar:?]
 	at jdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:155) ~[nashorn.jar:?]
 	at javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:264) ~[?:1.8.0_151]
-	at by.group12.zhylin.task2.interpretator.Interpreter.bitExpressionCalc(Interpreter.java:17) [jd2/:?]
-	at by.group12.zhylin.task2.parser.LexemParse.parse(LexemParse.java:29) [jd2/:?]
-	at by.group12.zhylin.task2.parser.SentenceParse.parse(SentenceParse.java:27) [jd2/:?]
-	at by.group12.zhylin.task2.parser.ParagraphParse.parse(ParagraphParse.java:33) [jd2/:?]
-	at by.group12.zhylin.task2.parser.TextParse.parse(TextParse.java:25) [jd2/:?]
-	at by.group12.zhylin.task2.program.Main.main(Main.java:20) [jd2/:?]
+	at by.group12.zhylin.Composite.interpretator.Interpreter.bitExpressionCalc(Interpreter.java:17) [jd2/:?]
+	at by.group12.zhylin.Composite.parser.LexemParse.parse(LexemParse.java:29) [jd2/:?]
+	at by.group12.zhylin.Composite.parser.SentenceParse.parse(SentenceParse.java:27) [jd2/:?]
+	at by.group12.zhylin.Composite.parser.ParagraphParse.parse(ParagraphParse.java:33) [jd2/:?]
+	at by.group12.zhylin.Composite.parser.TextParse.parse(TextParse.java:25) [jd2/:?]
+	at by.group12.zhylin.Composite.program.Main.main(Main.java:20) [jd2/:?]
 Caused by: jdk.nashorn.internal.runtime.ParserException: <eval>:1:0 Expected an operand but found .
 .
 ^
